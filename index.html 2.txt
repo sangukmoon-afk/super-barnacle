@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Super Barnacle</title>
+</head>
+<body>
+  <h1 style="text-align:center; margin-top:50px;">Super Barnacle</h1>
+  <p style="text-align:center; margin-top:20px;">
+    <a href="https://github.com/sangukmoon-afk/super-barnacle" target="_blank" 
+       style="display:inline-block; background-color:#24292e; color:white; 
+              padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:16px;">
+      GitHub 저장소 열기
+    </a>
+  </p>
+</body>
+</html>
